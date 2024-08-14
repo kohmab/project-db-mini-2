@@ -1,0 +1,1 @@
+1722944542767|7|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/movie|SELECT count(*) FROM film|SELECT count(*) FROM film
